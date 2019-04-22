@@ -1,0 +1,5 @@
+{:deps
+  { sec2 {:local/root "sec2/"}
+    org.clojure/clojure {:mvn/version "1.10.0"}
+  }
+}
