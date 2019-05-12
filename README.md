@@ -1,0 +1,3 @@
+# ZeroDeepLearning
+
+ClojureとApache MXNetでゼロから作るDeepLearningを実装してみようとするこころみ
